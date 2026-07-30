@@ -35,5 +35,3 @@ Criar uma plataforma web que facilite o planejamento e o acompanhamento da gradu
 | Editor Rich Text | django-ckeditor (opcional)               |
 | Versionamento    | Git + GitHub                             |
 | Deploy           | Railway/Render + PostgreSQL + WhiteNoise |
-
---- 
